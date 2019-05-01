@@ -1,7 +1,7 @@
 # PowerShell で和暦を表示してみよう！
 ## ファイル構成
 * kaigen.ps1 改元日を表示します。
-* wareki.ps1 和暦を表示します。引数（yyyymmdd)
+* WarekiDisp.ps1 和暦を表示します。引数（yyyymmdd)
 
 ## 前提環境
 * 最新の Windows Update (新元号対応）が適用された Windows PC もしくは下記レジストリキーが設定されている PC
