@@ -2,7 +2,7 @@
 ## ファイル構成
 * kaigen.ps1 改元日を表示します。
 * WarekiDisp.ps1 和暦を表示します。引数（yyyymmdd)
-* EraSet.reg 和暦対応していない環境で実行するためのレジストリキー
+* EraSet.reg 改元対応していない環境で実行するためのレジストリキー
 
 ## 前提環境
 * 最新の Windows Update (新元号対応）が適用された Windows PC もしくは下記レジストリキーが設定されている PC
